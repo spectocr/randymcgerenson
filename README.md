@@ -1,7 +1,5 @@
 # Password-Generator
 
-![])
-
 
 ### Summary
 * HTML and CSS and Javascript documents create a random password generator (kinda)
@@ -25,7 +23,7 @@ HTML, Javascript, CSS
 * **Cris Spector**
 
 
-[alt text](/randymcgerenson/img.png)
+[alt text](img.png)
 
 
 
