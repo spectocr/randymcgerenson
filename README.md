@@ -23,7 +23,7 @@ HTML, Javascript, CSS
 * **Cris Spector**
 
 
-[alt text]![randymcgerenson](img.png)
+![randymcgerenson](img.png)
 
 
 
