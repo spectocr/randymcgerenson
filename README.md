@@ -25,7 +25,7 @@ HTML, Javascript, CSS
 * **Cris Spector**
 
 
-[alt text](http://url/to/img.png)
+[alt text](/randymcgerenson/img.png)
 
 
 
