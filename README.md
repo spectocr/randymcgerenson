@@ -2,7 +2,7 @@
 
 
 ### Summary
-* HTML and CSS and Javascript documents create a random password generator (kinda)
+* HTML and CSS and Javascript documents create a random password generator.
 * This project emphasizes the use of using Javascript to make dynamic changes to an HMTL document
 
 
@@ -12,7 +12,7 @@
 
 
 ### To Execute File:
-> Open in browser
+Open in browser
 
 ### Features: 
 HTML, Javascript, CSS
@@ -20,7 +20,7 @@ HTML, Javascript, CSS
 
 ## Authors
 
-* **Cris Spector**
+**Cris Spector**
 
 
 ![randymcgerenson](img.png)
