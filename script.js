@@ -14,7 +14,7 @@ var generateBtn = document.querySelector("#generate");
 
 function generatePassword() {
   var passwordText = document.querySelector("#password");
-  var pwlength = window.prompt("Choose Password lenght, at least 8 characters and no more than 128 characters")
+  var pwlength = window.prompt("Choose Password length, at least 8 characters and no more than 128 characters")
   if (pwlength < 8 || pwlength > 128) {
     alert("too little or too much, try agin")
   };
